@@ -10,7 +10,6 @@ The project demonstrates practical skills in data analysis, data manipulation, s
 - Combine province-level and region-level datasets using Pandas.
 - Investigate relationships between COVID-19 indicators.
 - Visualize data patterns using statistical plots.
-- Technologies and Libraries
   ## Technologies and Libraries
 - **Python** – Programming language
 - **Pandas** – Data manipulation and analysis
