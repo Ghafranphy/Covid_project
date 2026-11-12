@@ -1,1 +1,1 @@
-
+This project uses two CSV files containing COVID-19 data from Italy. The datasets provide information at two geographical levels: provinces and regions. The data includes information about COVID-19 cases, deaths, hospitalizations, and other related statistics. These datasets are used to practise data loading, cleaning, merging, analysis, and visualization using Python and Pandas.
