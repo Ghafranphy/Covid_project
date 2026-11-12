@@ -11,3 +11,10 @@ The project demonstrates practical skills in data analysis, data manipulation, s
 - Investigate relationships between COVID-19 indicators.
 - Visualize data patterns using statistical plots.
 - Technologies and Libraries
+  ## Technologies and Libraries
+  - **Python** – Programming language
+- **Pandas** – Data manipulation and analysis
+- **NumPy** – Numerical computing
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical data visualization
+- **Jupyter Notebook** – Interactive data analysis
