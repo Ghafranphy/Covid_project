@@ -12,7 +12,7 @@ The project demonstrates practical skills in data analysis, data manipulation, s
 - Visualize data patterns using statistical plots.
 - Technologies and Libraries
   ## Technologies and Libraries
-  - **Python** – Programming language
+- **Python** – Programming language
 - **Pandas** – Data manipulation and analysis
 - **NumPy** – Numerical computing
 - **Matplotlib** – Data visualization
