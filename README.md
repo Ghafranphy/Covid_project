@@ -18,3 +18,12 @@ The project demonstrates practical skills in data analysis, data manipulation, s
 - **Matplotlib** – Data visualization
 - **Seaborn** – Statistical data visualization
 - **Jupyter Notebook** – Interactive data analysis
+## Project Structure
+covid_project/
+│
+├── data/
+│   ├── covid19_italy_province.csv
+│   └── covid19_italy_region.csv
+│
+├── covid_project.ipynb
+└── README.md
