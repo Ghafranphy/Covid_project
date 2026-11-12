@@ -1,5 +1,5 @@
 # COVID-19 Data Analysis Using Python
- ## Project Overview
+ **Project Overview**
 This project focuses on exploring and analyzing COVID-19 data from Italy using Python. It uses province-level and region-level datasets to investigate the distribution of confirmed cases, recoveries, deaths, and hospitalizations.
 The project demonstrates practical skills in data analysis, data manipulation, statistical exploration, and data visualization using Python libraries.
 ## Objectives
